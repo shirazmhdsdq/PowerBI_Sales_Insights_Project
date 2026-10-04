@@ -12,7 +12,7 @@ This project is an end-to-end business intelligence dashboard built in Power BI.
 ## 📂 Project Structure
 * `Sales_Insights_Dashboard.pbix`: The master Power BI project file containing the Star Schema model, DAX measures, and final report.
 * `Raw_Data/`: The original multi-table CSV dataset containing Fact_Sales, Dim_Products, and Dim_Customers/Regions.
-* `PowerBI_Sales_Dashboard.png`: A high-resolution static preview of the interactive dashboard.
+* `![Dashboard Screenshot](Screenshot%202026-10-04%20143845.png)`: A high-resolution static preview of the interactive dashboard.
 
 ## 📈 Key Features & Insights
 * **Star Schema Architecture:** Successfully mapped product and territory dimensions to a centralized sales fact table using unique identifier keys (`ProductKey`, `SalesTerritoryKey`).
